@@ -1,0 +1,19 @@
+{
+  "name": "api-parser",
+  "version": "0.0.1",
+  "description": "Parses an api structure into a directory structure to use for test data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "angular",
+    "$httpBackend"
+  ],
+  "author": "Benoit le",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
